@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "iMac",
+      "price": "992210",
+      "quantity": 5,
+      "id": 2
+    },
+    {
+      "name": "ij",
+      "price": "0j",
+      "quantity": 0,
+      "photo": 0,
+      "id": 3
+    },
+    {
+      "name": "gaf",
+      "price": "87",
+      "quantity": 78,
+      "photo": 0,
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": "98",
+      "quantity": 0,
+      "photo": 0,
+      "id": 5
+    },
+    {
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "photo": 0,
+      "id": 6
+    },
+    {
+      "name": "",
+      "price": 0,
+      "quantity": 0,
+      "photo": 0,
+      "id": 7
+    },
+    {
+      "name": "Ciril",
+      "price": "1000",
+      "quantity": 5,
+      "photo": 0,
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+       "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
